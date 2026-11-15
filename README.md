@@ -65,4 +65,5 @@ across countries and geographical regions.
 - Exploratory Data Analysis
 - Data Visualization
 
-[View Project]((https://github.com/tringminh/MIS-311.git))
+[View Project](https://github.com/tringminh/MIS-311.git)
+
