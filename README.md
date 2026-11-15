@@ -38,6 +38,7 @@ technology can support better business decisions.
 - Microsoft Excel
 - Power Query
 - AI
+- Power BI
 <p align="center">
 
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
